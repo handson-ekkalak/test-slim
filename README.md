@@ -1,5 +1,5 @@
 # test-slim
-Use this skeleton application to quickly setup and start testing on a new Slim apllication. This application uses the latest Slim version https://www.hands-on.co.th/
+Use this skeleton application to quickly setup and start testing on a new Slim apllication. This application uses the latest Slim version https://www.hands-on.co.th
 
 ## Slim Framework
 
@@ -18,30 +18,30 @@ Latest version: [Slim 3.8.1](https://www.slimframework.com/2017/03/19/slim-3.8.1
 
 ## Useful Links
 
-[Composer Dependency Manager for PHP](https://getcomposer.org) - https://getcomposer.org
+[Composer Dependency Manager for PHP](https://getcomposer.org) - getcomposer.org
 
-[Packagist](https://packagist.org) - The PHP Package Repository https://packagist.org
+[Packagist](https://packagist.org) - The PHP Package Repository packagist.org
 
-[Bower](https://bower.io) - A package manager for the web https://bower.io
+[Bower](https://bower.io) - A package manager for the web bower.io
 
-[Slim Framework](http://www.slimframework.com/) - http://www.slimframework.com
+[Slim Framework](http://www.slimframework.com/) - slimframework.com
 
-[Slim Documentation](http://www.slimframework.com/docs/) - http://www.slimframework.com/docs/
+[Slim Documentation](http://www.slimframework.com/docs/) 
 
-[slim/twig-view](https://packagist.org/packages/slim/twig-view) - https://packagist.org/packages/slim/twig-view
+[slim/twig-view](https://packagist.org/packages/slim/twig-view)
 
-[Twig template](https://twig.sensiolabs.org/doc/2.x/) - https://twig.sensiolabs.org/doc/2.x/
+[Twig template docs 2.x](https://twig.sensiolabs.org/doc/2.x/)
 
-[slim/middleware](https://packagist.org/packages/slim/middleware) - https://packagist.org/packages/slim/middleware
+[slim/middleware](https://packagist.org/packages/slim/middleware)
 
-[slim/csrf](https://packagist.org/packages/slim/csrf) - https://packagist.org/packages/slim/csrf
+[slim/csrf](https://packagist.org/packages/slim/csrf)
 
-[monolog/monolog](https://packagist.org/packages/monolog/monolog) - https://packagist.org/packages/monolog/monolog
+[monolog/monolog](https://packagist.org/packages/monolog/monolog)
 
-[PHP The Right Way](http://www.phptherightway.com) - http://www.phptherightway.com
+[PHP The Right Way](http://www.phptherightway.com) - phptherightway.com
 
-[PHP PSR Recommendation](http://www.php-fig.org) - http://www.php-fig.org
+[PHP PSR Recommendation](http://www.php-fig.org) - php-fig.org
 
-[Bootstrap](http://getbootstrap.com) - HTML, CSS, and JS framework http://getbootstrap.com
+[Bootstrap](http://getbootstrap.com) - HTML, CSS, and JS framework
 
-[CDN JS](https://cdnjs.com) - https://cdnjs.com
+[CDN JS](https://cdnjs.com)
